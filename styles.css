@@ -1,0 +1,38 @@
+*{
+  padding: 0;
+  margin: 5px;
+}
+body{
+  color: white;
+  text-align: center;
+}
+header{
+  background-color: brown;
+  height: 60px;
+}
+nav{
+  background-color: coral;
+  height: 60px;
+}
+main{
+  display: flex;
+  align-items: stretch;
+}
+aside{
+  background-color: cadetblue;
+  width: 100%;
+  height: 160px;
+}
+section{
+  background-color: greenyellow;
+  width: 100%;
+  height: 160px;
+}
+article{
+  background-color: darkolivegreen;
+  height: 40px;
+}
+footer{
+  background-color: lightblue;
+  height: 60px;
+}
