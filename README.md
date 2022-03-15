@@ -1,4 +1,4 @@
-# Etiqueta &lt;link&gt;
+# Etiquetas HTML5
 
 
 👋 Bienvenidos a CodingTube, un canal dedicado a los apasionados por el código. Si te gusta programar y quieres aprender más acerca de este fascinante mundo, estás en el lugar indicado.
